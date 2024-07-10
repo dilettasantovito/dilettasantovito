@@ -1,6 +1,7 @@
-- PhD student at the University of Bologna :seedling:
-- Working on the use of biodiversity big data for conservation planning :herb:
-- You can email me at diletta.santovito2@unibo.it :bird:
+- 🌱 PhD student at the University of Bologna 
+- 🌿 Working on the use of biodiversity big data for conservation planning
+- 🍃 You can reach me at diletta.santovito2@unibo.it 
+
 
 <!--
 **dilettasantovito/dilettasantovito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
